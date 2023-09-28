@@ -1,0 +1,27 @@
+{
+  "name": "meowbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ivan-developer-01/meowbot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ivan-developer-01/meowbot/issues"
+  },
+  "homepage": "https://github.com/ivan-developer-01/meowbot#readme",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "octokit": "^3.1.1"
+  },
+  "devDependencies": {
+    "smee-client": "^1.2.3"
+  }
+}
